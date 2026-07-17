@@ -1,135 +1,109 @@
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Sangmeshwar Swami</h1>
-<h3 align="center">Aspiring AI & Data Science Engineer | Full-Stack Developer | RAG & LLM Applications</h3>
+```
+ ____                                      _
+/ ___|  __ _ _ __   __ _ _ __ ___   ___  ___| |__
+\___ \ / _` | '_ \ / _` | '_ ` _ \ / _ \/ __| '_ \
+ ___) | (_| | | | | (_| | | | | | |  __/\__ \ | | |
+|____/ \__,_|_| |_|\__, |_| |_| |_|\___||___/_| |_|
+                   |___/
+```
 
-<p align="center">
-  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:sangmeshwarswami9306@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Phone-+91_9112447876-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</p>
+### `{ building AI things that actually work }` 
 
----
-
-### 🚀 About Me
-
-- 🎓 Currently pursuing **B.E. in Artificial Intelligence & Data Science** at ISBM College of Engineering, Pune
-- 🧠 Passionate about building **AI-powered applications** — RAG systems, adaptive learning platforms, and intelligent document processing
-- 🌐 Skilled in **full-stack web development** and turning ideas into working products
-- 🏆 **Google Student Ambassador** — Lead AI on Campus
-- 🤝 Actively involved in campus leadership: Alumni Cell Coordinator & Training and Placement Cell, ISBM College of Engineering
-- 📊 Prior experience as a **Data Analyst & Social Media Manager**, and as a **Web Development Intern**
+</div>
 
 ---
 
-### 🛠️ Tech Stack
-
-**Languages**
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Web Development**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-**AI & Backend**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square)
-
-**Databases & Tools**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+```python
+sangmeshwar = {
+    "name"     : "Sangmeshwar Swami",
+    "location" : "Pune, Maharashtra 🇮🇳",
+    "studying" : "B.E. — AI & Data Science @ ISBM College of Engineering",
+    "role"     : "Google Student Ambassador · Lead AI on Campus",
+    "focus"    : ["RAG Systems", "LLM Apps", "Full-Stack Dev"],
+    "currently": "shipping projects, mentoring juniors, drinking too much chai ☕",
+}
+```
 
 ---
 
-### 💡 Featured Projects
+## What I build
 
-<table>
-<tr>
-<td width="50%">
+I like taking AI from *demo* to *done* — apps that process real documents, answer real questions, and adapt to real users. My projects live at the intersection of large language models and practical user problems.
 
-**🧠 [LearnLoop AI](#)**
-AI-assisted adaptive learning platform that converts PDFs into personalized learning experiences with AI-generated assessments, weak-topic detection, and performance reports.
-`React.js` `FastAPI` `ChromaDB` `DeepSeek API`
+### 🧠 LearnLoop AI — Adaptive Learning Platform
+> *What if your PDF could teach you back?*
 
-</td>
-<td width="50%">
+Upload any study material → get AI-generated quizzes → get called out on weak topics → retry with targeted content. Full pipeline: PDF chunking → vector indexing → DeepSeek LLM → performance dashboard.
 
-**📄 [AskDocAI](#)**
-Multilingual RAG-based document assistant (English, Hindi, Marathi) for intelligent PDF question answering using semantic search.
-`LangChain` `ChromaDB` `Sentence Transformers`
+`React.js` `FastAPI` `ChromaDB` `DeepSeek API` `SQLAlchemy` `Tailwind CSS`
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+---
 
-**📚 [RFID Library Management System](#)**
-Real-time RFID-based automated library system built during Hacksprit Hackathon.
+### 📄 AskDocAI — Multilingual Document Assistant
+> *Ask your PDF anything. In any language.*
+
+RAG-powered Q&A over documents — supports **English, Hindi, and Marathi**. Semantic search via Sentence Transformers, not just keyword matching.
+
+`LangChain` `ChromaDB` `Sentence Transformers` `React.js` `FastAPI`
+
+---
+
+### 📚 RFID Library Management System
+> *Built in a hackathon. Still runs smoother than most library software.*
+
+Real-time book tracking using RFID tags, Firebase live sync, and a React dashboard. Won hearts at Hacksprit 2024.
+
 `Node.js` `React.js` `Firebase`
 
-</td>
-<td width="50%">
+---
 
-**🎨 [CodeCraft](#)**
-Drag-and-drop website builder with live styling and customization.
+### 🎨 CodeCraft — Drag & Drop Website Builder
+> *Before Webflow, there was this.*
+
+Visual website builder with drag-and-drop components, live preview, and style customization. A full product, not just a school project.
+
 `HTML` `CSS` `JavaScript` `PHP` `MySQL`
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+---
 
-**❤️ [Charity Circle](#)**
-Responsive nonprofit organization website built during a web development internship.
-`HTML` `CSS` `JavaScript` `PHP` `Bootstrap`
+## Stack at a glance
 
-</td>
-<td width="50%">
-
-*More projects coming soon...*
-
-</td>
-</tr>
-</table>
+| Layer | Tools |
+|---|---|
+| **AI / ML** | Python, LangChain, RAG, ChromaDB, Sentence Transformers, DeepSeek API |
+| **Backend** | FastAPI, Node.js, PHP, REST APIs |
+| **Frontend** | React.js, Tailwind CSS, Bootstrap, JS, HTML/CSS |
+| **Databases** | MySQL, SQLite, Firebase |
+| **Languages** | Python, JavaScript, Java, C, C++ |
+| **Tooling** | Git, GitHub, VS Code |
 
 ---
 
-### 📈 GitHub Stats
+## Beyond the code
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
+- 🎖️ **Google Student Ambassador** — running AI workshops and events on campus
+- 🤝 **Alumni Cell Coordinator** — connecting students with professionals who've been in their shoes
+- 📋 **Placement Cell Jr. Coordinator** — helped students land interviews by mapping active hiring pipelines
+- 📊 **Former Data Analyst @ Capitell Group** — turned social media numbers into actionable strategy
 
 ---
 
-### 🏆 Achievements & Leadership
+## Let's connect
 
-- 🎖️ Google Student Ambassador — Lead AI on Campus
-- 🤝 Coordinator, Alumni Cell (SPCR), ISBM College of Engineering
-- 📋 Junior Coordinator, Training and Placement Cell, ISBM College of Engineering
-- 💻 Participant, Datathon, ISBM College of Engineering
-- 🔧 Participant, Hacksprit Hackathon, ISBM College of Engineering
+<div align="center">
+
+[![Email](https://img.shields.io/badge/sangmeshwarswami9306@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sangmeshwarswami9306@gmail.com)
+&nbsp;
+[![Phone](https://img.shields.io/badge/+91_9112447876-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919112447876)
+
+*Open to internships, collaborations, and interesting AI problems.*
+
+</div>
 
 ---
 
-<p align="center">
-  <i>📫 Let's connect and build something impactful with AI!</i>
-</p>
+<div align="center">
+<sub>profile last broken, fixed, and re-broken by me 🔧</sub>
+</div>
