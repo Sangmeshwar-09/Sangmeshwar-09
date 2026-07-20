@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring AI & Data Science Engineer | Full-Stack Developer | RAG & LLM Applications</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sangmeshwar-swami/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:sangmeshwarswami9306@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Phone-+91_9112447876-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
